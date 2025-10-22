@@ -68,13 +68,14 @@ pip install pandas scikit-learn
 Além disso, você precisará dos arquivos de dados do Kaggle (`train.csv` e `test.csv`) em um subdiretório chamado `DesafioTitanic/`.
 
 **Estrutura de arquivos esperada:**
-.
+```
 ├── DesafioTitanic/
 │   ├── train.csv
 │   ├── gender_submission.csv
 │   ├── test.csv
 │   └── main.py (este código)
 └── README.md
+```
 
 ## 🚀 Como Executar
 
@@ -125,4 +126,4 @@ Além disso, o console exibirá:
 
 ## 👨‍💻 Autor
 
--   [Seu Nome Aqui]
+- **Kevin Thiago dos Santos** - *Estudante de Ciência da Computação*
